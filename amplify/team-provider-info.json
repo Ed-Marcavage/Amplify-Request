@@ -17,6 +17,9 @@
       },
       "api": {
         "amplifyrequest": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
